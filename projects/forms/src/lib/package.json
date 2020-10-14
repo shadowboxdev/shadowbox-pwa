@@ -1,0 +1,13 @@
+{
+  "name": "@tsv/common/forms",
+  "version": "0.0.3",
+  "ngPackage": {
+    "lib": {
+      "entryFile": "index.ts",
+      "umdModuleIds": {
+        "moment": "moment",
+        "ramda": "ramda"
+      }
+    }
+  }
+}
